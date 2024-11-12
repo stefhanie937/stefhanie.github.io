@@ -1,0 +1,14 @@
+C:\Users\Stefh\Desktop\oop4pillars\bin\Debug\net8.0\oop4pillars.exe
+C:\Users\Stefh\Desktop\oop4pillars\bin\Debug\net8.0\oop4pillars.deps.json
+C:\Users\Stefh\Desktop\oop4pillars\bin\Debug\net8.0\oop4pillars.runtimeconfig.json
+C:\Users\Stefh\Desktop\oop4pillars\bin\Debug\net8.0\oop4pillars.dll
+C:\Users\Stefh\Desktop\oop4pillars\bin\Debug\net8.0\oop4pillars.pdb
+C:\Users\Stefh\Desktop\oop4pillars\obj\Debug\net8.0\oop4pillars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefh\Desktop\oop4pillars\obj\Debug\net8.0\oop4pillars.AssemblyInfoInputs.cache
+C:\Users\Stefh\Desktop\oop4pillars\obj\Debug\net8.0\oop4pillars.AssemblyInfo.cs
+C:\Users\Stefh\Desktop\oop4pillars\obj\Debug\net8.0\oop4pillars.csproj.CoreCompileInputs.cache
+C:\Users\Stefh\Desktop\oop4pillars\obj\Debug\net8.0\oop4pillars.dll
+C:\Users\Stefh\Desktop\oop4pillars\obj\Debug\net8.0\refint\oop4pillars.dll
+C:\Users\Stefh\Desktop\oop4pillars\obj\Debug\net8.0\oop4pillars.pdb
+C:\Users\Stefh\Desktop\oop4pillars\obj\Debug\net8.0\oop4pillars.genruntimeconfig.cache
+C:\Users\Stefh\Desktop\oop4pillars\obj\Debug\net8.0\ref\oop4pillars.dll
